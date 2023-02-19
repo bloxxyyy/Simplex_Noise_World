@@ -24,3 +24,6 @@ C:\Users\mnnop\source\repos\Koko_Seikail_Base_Game\Koko_Seikail_Base_Game\obj\De
 C:\Users\mnnop\source\repos\Koko_Seikail_Base_Game\Koko_Seikail_Base_Game\obj\Debug\net6.0\Koko_Seikail_Base_Game.genruntimeconfig.cache
 C:\Users\mnnop\source\repos\Koko_Seikail_Base_Game\Koko_Seikail_Base_Game\obj\Debug\net6.0\ref\Koko_Seikail_Base_Game.dll
 C:\Users\mnnop\source\repos\Koko_Seikail_Base_Game\Koko_Seikail_Base_Game\bin\Debug\net6.0\SimplexNoise.dll
+C:\Users\mnnop\source\repos\Koko_Seikail_Base_Game\Koko_Seikail_Base_Game\bin\Debug\net6.0\DelaunatorSharp.dll
+C:\Users\mnnop\source\repos\Koko_Seikail_Base_Game\Koko_Seikail_Base_Game\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\mnnop\source\repos\Koko_Seikail_Base_Game\Koko_Seikail_Base_Game\bin\Debug\net6.0\Newtonsoft.Json.dll
